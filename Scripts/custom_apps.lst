@@ -3,21 +3,54 @@
 # trash-cli-git                                        # cli to manage trash files
 # libinput-gestures                                    # actions touchpad gestures using libinput
 # gestures                                             # gui for libinput-gestures
+ufw
+dkms
+timeshift
+p7zip
+unrar
+unzip
+unace
+zip
+unarj
+lrzip
+lha
+cpio
+arj
+gptfdisk
+kate
+gwenview
+kdeconnect
+corectrl
+noise-suppression-for-voice
+cachyos-ananicy-rules 
+ananicy-cpp 
+power-profiles-daemon 
+cpupower 
+upower 
+cachyos-settings
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 # emote                                                # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
-steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimisations
-mangohud                                               # system performance overlay
+# steam                                                  # gaming platform
+# gamemode                                               # daemon and library for game optimisations
+# mangohud                                               # system performance overlay
 # gamescope                                            # micro-compositor for gaming
+cachyos-gaming-meta
 
 # --------------------------------------------------- // Music
-cava                                                   # audio visualizer
-spotify                                                # proprietary music streaming service
-spicetify-cli                                          # cli to customize spotify client
+# cava                                                   # audio visualizer
+spotify-launcher                                         # proprietary music streaming service
+# spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
 # neovim                                               # vim based text editor
+onlyoffice-bin
+bleachbit
+qbittorrent
+mpv
+keepassxc
+telegram-desktop
+vesktop
